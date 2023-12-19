@@ -1,10 +1,10 @@
-# Intro 
+# Sessions - Overview
 
 
 In the first block of this course we will focus on X
 
 ## Objectives 📍
-- Learn about X
+- Learn about
     - What?
     - How?
  
