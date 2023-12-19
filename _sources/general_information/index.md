@@ -17,9 +17,7 @@ Please visit these pages again in the next few weeks for further information.
 
 Hello everyone and welcome to the course page for Introduction to Cognitive Neuroscience 2023/24
 
-## Course name
-
-Within this course we will explore X
+## Introduction to Cognitive Neuroscience 2023/24
 
 You can use the following sections to navigate through the content of the lecture:
 
