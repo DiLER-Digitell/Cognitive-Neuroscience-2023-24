@@ -7,7 +7,7 @@ You might think: "Why should I care and what does it have to do with me? I just 
 While we will talk about [#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click) during the course it obviously won't be enough and additionally mostly limited to the experience and insights of the instructor. Thus, please take the time and effort to delve into this crucial topic by checking the resources linked below and utilizing them as a starting point. Please note that these things will be frequently updated. If you stumble across something that should be included, please contact the instructor so that it can be added.     
 
 
-## Overview materials & introduction to DEI
+## Overview materials & Introduction to DEI
 
 Below you'll find some useful resources to familiarize yourself with ([#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click)) and related problems. The list will contain different media, from youtube videos, over journal publications to workshops and other information material.
 

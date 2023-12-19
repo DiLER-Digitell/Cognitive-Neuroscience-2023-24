@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Hello 👋,
+Hello everyone👋,
 
 this course is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks. Participants violating these rules may be sanctioned or expelled from the lecture at the discretion of the organizers.
 
