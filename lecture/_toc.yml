@@ -2,15 +2,12 @@ root: general_information/index
 format: jb-book
 chapters:
 - file: general_information/overview
-- file: introduction/sessions
-  sections:
-  - file: introduction/session7
-  - file: introduction/session1
-  - file: introduction/session2
-  - file: introduction/session3
-  - file: introduction/session4
-  - file: introduction/session5
-  - file: introduction/session6
+- file: introduction/session7
+- file: introduction/session2
+- file: introduction/session3
+- file: introduction/session4
+- file: introduction/session5
+- file: introduction/session6
 - file: ressources/ressources
 - file: ressources/template_research_designs
 - file: general_information/CoC
