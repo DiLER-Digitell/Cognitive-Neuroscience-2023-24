@@ -1,4 +1,4 @@
-# Introduction
+# Research Process
 
 Experimental designs, research process, preregistration
 
