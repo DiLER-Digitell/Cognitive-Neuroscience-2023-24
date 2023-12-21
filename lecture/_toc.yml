@@ -4,6 +4,7 @@ chapters:
 - file: general_information/overview
 - file: introduction/sessions
   sections:
+  - file: introduction/session7
   - file: introduction/session1
   - file: introduction/session2
   - file: introduction/session3
