@@ -1,4 +1,4 @@
-# Introduction
+# fMRI
 
 Intro MRI
 
