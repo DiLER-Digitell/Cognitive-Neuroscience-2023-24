@@ -1,6 +1,6 @@
 # EEG
 
-Intro EEF
+Intro EEG
 
 ## Topics 💡👨🏻‍🏫 
 
